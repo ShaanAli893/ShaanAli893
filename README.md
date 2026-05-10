@@ -2,7 +2,19 @@
 
 ### Software Engineer | Backend-Focused Full Stack Developer  
 
-Computer Science graduate with practical experience in building scalable, maintainable, and performance-driven web applications. Specialized in **Backend Development** with strong full stack capabilities, focused on designing efficient server-side systems, RESTful APIs, and structured database architectures while also delivering responsive frontend experiences when required.  
+Computer Science graduate with **6 months of practical hands-on development experience** in building scalable, maintainable, and performance-driven web applications. Specialized in **Backend Development** with strong full stack capabilities, focused on designing efficient server-side systems, RESTful APIs, and structured database architectures while also delivering responsive frontend experiences when required.  
+
+---
+
+## 💼 Experience  
+
+### Junior Software Developer (Hands-On Experience) | 6 Months  
+- Developed backend modules using **Java** and **Spring Boot**  
+- Designed and integrated **RESTful APIs** for application workflows  
+- Structured and managed **MySQL** databases for scalable systems  
+- Contributed to frontend-backend integration for complete application functionality  
+- Applied version control and collaborative workflows using **GitHub**  
+- Focused on clean architecture, maintainable code, and efficient development practices  
 
 ---
 
@@ -27,7 +39,7 @@ Computer Science graduate with practical experience in building scalable, mainta
 
 ---
 
-## 💼 Professional Strengths  
+## 💡 Professional Strengths  
 
 - Backend Development  
 - Full Stack Web Development  
